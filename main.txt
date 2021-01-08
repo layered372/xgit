@@ -8,3 +8,5 @@ s   one
 
 s   two
 
+s   three:  solarized
+
